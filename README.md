@@ -2,7 +2,7 @@
 
 
  * 🔭 I’m currently working on cool Django projects
- * 🌱 My tech stacks are Python, Django & Postgresql
+ * 🌱 My tech stacks are Python, Django , Postgresql & Reacjs Newbie 🎡
  *  * 👯 I’m currently learning Javascript and Reactjs 😉
  * 👯 I’m looking to collaborate on Django and Reactjs devs🎉
  * 💬 Ask me about anything about Python/Django😎
