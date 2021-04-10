@@ -8,7 +8,7 @@
  * 💬 Ask me about anything about Python/Django😎
 
 
-[![OnlyGod's github stats](https://github-readme-stats.vercel.app/api?username=OnlynfK)](https://github.com/anuraghazra/github-readme-stats)
+[![OnlyGod's github stats](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
