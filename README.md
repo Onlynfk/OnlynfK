@@ -1,4 +1,4 @@
-### Hi there 👋 i'm OnlyGod a fullstack developer
+### Hi there 👋 I'm OnlyGod a fullstack developer
  
  * 🌱 My tech stacks include Python, Django , Postgresql & Reactjs-Newbie 🎡
  * 🔭 Currently i'm working on cool Django side projects
