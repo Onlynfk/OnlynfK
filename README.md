@@ -1,14 +1,13 @@
-### Hi there 👋
+### Hi there 👋 i'm OnlyGod a fullstack developer
+ 
+ * 🌱 My tech stacks include Python, Django , Postgresql & Reactjs-Newbie 🎡
+ * 🔭 Currently i'm working on cool Django side projects
+ * 👯 and also learning Reactjs😉
+ * 👯 I’m looking to collaborate with Django and Reactjs devs🎉
+ * 💬 You can ask me anything about Python/Django😎
 
 
- * 🔭 I’m currently working on cool Django projects
- * 🌱 My tech stacks are Python, Django , Postgresql & Reactjs-Newbie 🎡
- *  * 👯 I’m currently learning Javascript and Reactjs 😉
- * 👯 I’m looking to collaborate on Django and Reactjs devs🎉
- * 💬 Ask me about anything about Python/Django😎
-
-
-[![OnlyGod's github stats](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=nord&show_icons=true)]
+[![My github's stats😏](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=nord&show_icons=true)]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
