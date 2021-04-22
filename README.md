@@ -7,7 +7,6 @@
  * 💬 You can ask me anything about Python/Django😎
 ![](https://hit.yhype.me/github/profile?user_id=52893267)
 
-![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=green)
 
 [![My github's stats😏](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=nord&show_icons=true)]
 
@@ -18,6 +17,7 @@
 <a href="https://www.instagram.com/onlyg.codes/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/onlygod-o-b64084166/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://twitter.com/onlyg.codes" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
+![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=grey)
 
 </p>
 
