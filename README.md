@@ -9,7 +9,6 @@
 
 
 [![My github's stats😏](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=nord&show_icons=true)]
-![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=grey)
 
 
 
@@ -19,5 +18,6 @@
 <a href="https://www.linkedin.com/in/onlygod-o-b64084166/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://twitter.com/onlyg.codes" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>
-
+<small>![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=grey)
+</small>
 
