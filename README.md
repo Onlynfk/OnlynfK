@@ -11,13 +11,13 @@
 [![My github's stats😏](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=nord&show_icons=true)]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=grey)
 
 * 📫 How to reach me: ..
 <a href="https://onlygod.medium.com/" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/JPG/RGB/Medium-Symbol-Black-RGB%401x.jpg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://www.instagram.com/onlyg.codes/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/onlygod-o-b64084166/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://twitter.com/onlyg.codes" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-
 </p>
+![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=grey)
+
 
