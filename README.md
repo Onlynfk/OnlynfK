@@ -17,7 +17,9 @@
 <a href="https://www.instagram.com/onlyg.codes/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/onlygod-o-b64084166/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://twitter.com/onlyg.codes" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-</p>
+<br/>
 <small>![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=grey)
 </small>
+</p>
+
 
