@@ -7,6 +7,7 @@
  * 💬 You can ask me anything about Python/Django😎
 ![](https://hit.yhype.me/github/profile?user_id=52893267)
 
+![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=green)
 
 [![My github's stats😏](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=nord&show_icons=true)]
 
