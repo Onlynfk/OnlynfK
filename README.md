@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm OnlyGod a fullstack developer
  
  * 🌱 My tech stacks include Python, Django , Postgresql & Reactjs-Newbie 🎡
- * 🔭 Currently i'm working on cool Django side projects
+ * 🔭 Currently i'm working on Reactjs and Django projects
  * 👯 and also learning Reactjs😉
  * 👯 I’m looking to collaborate with Django and Reactjs devs🎉
- * 💬 You can ask me anything about Python/Django😎
+ * 💬 You can ask me anything about Python/Django/Reactjs 😎
 ![](https://hit.yhype.me/github/profile?user_id=52893267)
 
 
