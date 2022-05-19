@@ -8,8 +8,8 @@
 ![](https://hit.yhype.me/github/profile?user_id=52893267)
 
 
-[![My github's stats😏](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=nord&show_icons=true)]<br/>
-
+<!-- [![My github's stats😏](https://github-readme-stats.vercel.app/api?username=OnlynfK&theme=nord&show_icons=true)]<br/>
+ -->
 ![](https://komarev.com/ghpvc/?username=your-github-OnlynfK&color=grey)
 
 
